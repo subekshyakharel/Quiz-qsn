@@ -69,3 +69,7 @@ font-weight: 500;
   background: blueviolet;
   cursor: pointer;
 }
+.checked {
+  background: purple;
+  color: white;
+}
